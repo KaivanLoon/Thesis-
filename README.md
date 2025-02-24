@@ -1,2 +1,2 @@
 # Thesis
-This repository all the necessary files for my undergraduate thesis. 
+This repository contains all the necessary files for my undergraduate thesis. 
